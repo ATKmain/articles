@@ -1,6 +1,7 @@
-# ROI of Investing Australia Property vs Bitcoin
+# ROI of Investing in Australian Property vs Bitcoin
 
-## Investing in Australia Property
+## Investing in Australian Property
+
 Investing in property has long been considered a solid and lucrative strategy for growing wealth, particularly in markets like Australia. Property investments can deliver high returns on investment (ROI) due to consistent property appreciation, rental income, and the leveraging effect of loans. In this article, we will explore why property investment can yield such high returns, using average numbers to provide a comprehensive overview of potential outcomes over 10, 20, and 30 years. We will base our example on an initial investment of $100,000, leveraging a loan to buy property, and accounting for common costs such as management fees and selling commissions.
 
 ### Average Numbers in Australia
@@ -137,22 +138,14 @@ Using an amortization calculator, the total interest paid over 30 years is appro
 
 ### Summary of Potential ROI
 
-**10 Years**:
-- **Total Profit**: ~$1,232,755 (net after costs and loan interest)
-- **Total ROI**: 1233%
-- **Average Annual ROI**: ~31.6%
+| Investment Period | Total Profit   | Total ROI | Average Annual ROI |
+|-------------------|----------------|-----------|--------------------|
+| 10 Years          | ~$1,232,755    | 1233%     | ~31.6%            |
+| 20 Years          | ~$3,478,378    | 3478%     | ~20.6%            |
+| 30 Years          | ~$7,690,976    | 7691%     | ~17.0%            |
 
-**20 Years**:
-- **Total Profit**: ~$3,478,378 (net after costs and loan interest)
-- **Total ROI**: 3478%
-- **Average Annual ROI**: ~20.6%
+### Why Does ROI Decrease?
 
-**30 Years**:
-- **Total Profit**: ~$7,690,976 (net after costs and loan interest)
-- **Total ROI**: 7691%
-- **Average Annual ROI**: ~17.0%
-
-### But Why ROI reduce
 The Average Annual ROI decreases when the length of the investment increases due to the nature of compound growth and the amortization of loans. Here's a detailed explanation of why this happens:
 
 #### Compound Growth and Diminishing Returns
@@ -167,24 +160,20 @@ The Average Annual ROI decreases when the length of the investment increases due
 
 2. **Decreasing Interest Payments**: Over a longer period, the interest component decreases, and the principal repayment increases. However, the total return calculation includes all payments made, which can lower the annualized ROI as the investment period extends.
 
-##### Cost Impact
+#### Cost Impact
 
 1. **Management Fees and Selling Commissions**: These costs impact the overall profit but are relatively fixed percentages. As the investment duration increases, the impact of these costs is spread over a longer period, slightly stabilizing the ROI but also contributing to a lower annualized return when calculated over an extended time frame.
 
-#### Conclusion
-
-Investing in property in Australia can yield high returns due to consistent property appreciation, rental income, and the leveraging effect of loans. While the absolute returns grow over time, the average annual ROI tends
-
-### Comparing Property to Bitcoin Investment
+## Bitcoin Investment
 
 Let's assume we invest $100,000 in Bitcoin at today's price of $60,000 per Bitcoin. We'll compare this to a property investment over 10, 20, and 30 years.
 
-#### Bitcoin Investment Assumptions
+### Bitcoin Investment Assumptions
 - **Initial Investment**: $100,000
 - **Current Bitcoin Price**: $60,000
 - **Future Bitcoin Value**: $1,000,000 in 7 to 11 years
 
-#### Scenario 1: Future Value $1mil in 7 Years
+### Scenario 1: Future Value $1mil in 7 Years
 
 **Total Bitcoins Purchased**:
 \[ \text{Total Bitcoins} = \frac{\text{Initial Investment}}{\text{Current Bitcoin Price}} \]
@@ -204,7 +193,7 @@ Let's assume we invest $100,000 in Bitcoin at today's price of $60,000 per Bitco
 \[ \text{CAGR} = \left( 16.7 \right)^{\frac{1}{7}} - 1 \approx 0.611 \]
 \[ \text{Average Annual ROI} \approx 61.1\% \]
 
-#### Scenario 2: Future Value $1mil in 11 Years
+### Scenario 2: Future Value $1mil in 11 Years
 
 **Future Value**:
 \[ \text{Future Value} = 1.67 \times 1,000,000 \approx 1,670,000 \]
@@ -219,18 +208,12 @@ Let's assume we invest $100,000 in Bitcoin at today's price of $60,000 per Bitco
 \[ \text{CAGR} = \left( 16.7 \right)^{\frac{1}{11}} - 1 \approx 0.365 \]
 \[ \text{Average Annual ROI} \approx 36.5\% \]
 
+| Investment Period | Total Profit   | Total ROI | Average Annual ROI |
+|-------------------|----------------|-----------|--------------------|
+| 7 Years           | ~$1,570,000    | 1570%     | ~61.1%             |
+| 11 Years          | ~$1,570,000    | 1570%     | ~36.5%             |
 
-**Bitcoin Investment** (7 and 11 years):
-- **7 Years**: 
-  - **Total Profit**: ~$1,570,000 
-  - **Total ROI**: 1570%
-  - **Average Annual ROI**: ~61.1%
-- **11 Years**: 
-  - **Total Profit**: ~$1,570,000 
-  - **Total ROI**: 1570%
-  - **Average Annual ROI**: ~36.5%
-
-### Comparison of Property Investment and Bitcoin Investment
+## Comparison of Property Investment and Bitcoin Investment
 
 Here’s a side-by-side comparison of investing $100,000 in property and Bitcoin, considering the respective returns and risks over different time periods.
 
@@ -241,6 +224,94 @@ Here’s a side-by-side comparison of investing $100,000 in property and Bitcoin
 | **Property**        | 30 years              | $100,000               | $7,690,976       | 7691%         | 17.0%                  |
 | **Bitcoin**         | 7 years               | $100,000               | $1,670,000       | 1570%         | 61.1%                  |
 | **Bitcoin**         | 11 years              | $100,000               | $1,670,000       | 1570%         | 36.5%                  |
+
+### Simple Comparison of Property Investment and Bitcoin Investment
+
+Here’s a side-by-side comparison of investing $100,000 in property and Bitcoin, considering the respective returns and risks over different time periods.
+
+When comparing property investment and Bitcoin investment, several key points emerge:
+
+1. **Stability and Risk**: 
+   - **Property Investments**: Generally more stable and less volatile, with steady appreciation over time.
+   - **Bitcoin Investments**: Potentially higher returns but come with significant risk due to price volatility.
+
+2. **Returns**: 
+   - **Short-Term Gains**: Bitcoin has the potential to deliver much higher returns over shorter periods especially if buy in dips and sell at Highs (e.g., 61.1% annual ROI over 7 years).
+   - **Long-Term Growth**: Property investment provides substantial long-term growth with lower risk. For instance, a 30-year property investment can yield a 17.0% average annual ROI.
+
+3. **Investment Strategy**:
+   - **High Risk/High Reward**: Bitcoin could be a compelling option for those seeking potentially high short-term gains and willing to accept higher risk.
+   - **Stable Long-Term Growth**: Property investment remains a strong choice for investors looking for long-term, stable growth.
+
+## Buying in Dips and Selling at Highs: A Strategy Comparison
+
+When investing, one popular strategy is to buy assets when their prices dip (are lower than average) and sell them when prices peak (are higher than average). This approach can be applied to both property and Bitcoin investments, but the dynamics of each market are different. Let’s compare how this strategy might work for property and Bitcoin.
+
+### Property Investment Strategy
+
+**Property Market Dynamics:**
+- The property market generally follows a slower, more predictable cycle compared to Bitcoin. Property prices are influenced by factors such as economic growth, interest rates, and demographic trends.
+- Property values tend to appreciate steadily over time, with occasional market corrections.
+
+**Buy in Dips:**
+- **Market Corrections**: Purchase property during economic downturns or market corrections when prices are lower.
+- **Location**: Focus on areas with high growth potential but temporarily depressed prices.
+
+**Sell at Highs:**
+- **Boom Periods**: Sell property during economic booms or housing market peaks when demand and prices are high.
+
+**Example Scenario:**
+1. **Initial Investment**: $100,000 in a $1,000,000 property.
+2. **Buy During Dip**: Buy during a market correction at a 10% discount, getting the property for $900,000.
+3. **Sell During High**: Sell during a boom period where prices increase by 20%, selling the property for $1,080,000.
+4. **Total ROI Calculation**:
+   - **Profit from Sale**: $1,080,000 - $900,000 = $180,000
+   - **Total ROI**: \(\left( \frac{180,000}{100,000} \right) \times 100 = 180\% \)
+   - **Average Annual ROI**: Depends on the investment period.
+
+### Bitcoin Investment Strategy
+
+**Bitcoin Market Dynamics:**
+- The Bitcoin market is highly volatile, with frequent and significant price swings influenced by market sentiment, regulatory news, and broader economic trends.
+- Bitcoin can experience rapid appreciation and depreciation over short periods.
+
+**Buy in Dips:**
+- **Market Corrections**: Purchase Bitcoin during significant price drops or corrections.
+- **Timing**: Focus on periods of negative sentiment or market overreaction.
+
+**Sell at Highs:**
+- **Price Peaks**: Sell Bitcoin during price surges or bullish market trends.
+- **Market Sentiment**: Monitor news and market trends to identify optimal selling points.
+
+**Example Scenario:**
+1. **Initial Investment**: $100,000 in Bitcoin at $60,000 per Bitcoin.
+2. **Buy During Dip**: Buy Bitcoin during a 20% dip, purchasing approximately 2.08 BTC at $48,000 per Bitcoin.
+3. **Sell During High**: Sell during a 50% price surge, selling Bitcoin at $72,000 per Bitcoin.
+4. **Total ROI Calculation**:
+   - **Profit from Sale**: 2.08 BTC \(\times\) $72,000 - $100,000 = $49,760
+   - **Total ROI**: \(\left( \frac{49,760}{100,000} \right) \times 100 = 49.76\% \)
+   - **Average Annual ROI**: Depends on the investment period.
+
+### Comparison Summary
+
+| **Strategy**       | **Property Investment**                  | **Bitcoin Investment**                       |
+|--------------------|------------------------------------------|---------------------------------------------|
+| **Market Dynamics**| Slower, more predictable cycles          | Highly volatile, frequent price swings      |
+| **Buy in Dips**    | During economic downturns or corrections | During significant price drops              |
+| **Sell at Highs**  | During economic booms or market peaks    | During price surges or bullish trends       |
+| **Potential ROI**  | Steady appreciation with lower risk      | High potential returns with higher risk     |
+| **Example ROI**    | 180% (buy at 10% discount, sell at 20% gain)| 49.76% (buy at 20% dip, sell at 50% surge) |
+
+
+**Property Investment**:
+- **Pros**: Steady long-term appreciation, lower risk, predictable market cycles.
+- **Cons**: Lower potential short-term gains, slower market movements.
+
+**Bitcoin Investment**:
+- **Pros**: High potential short-term gains, frequent opportunities to buy low and sell high.
+- **Cons**: High volatility, significant risk of loss, unpredictable market movements.
+
+Choosing between property and Bitcoin investment with a strategy of buying in dips and selling at highs depends on your risk tolerance, investment horizon, and market expertise. Property offers stability and long-term growth, while Bitcoin presents opportunities for high returns but with greater risk and volatility.
 
 ### Summary
 
