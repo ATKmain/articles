@@ -19,7 +19,7 @@ Assume you invest $100,000 as a down payment on a $1,000,000 property (90% loan)
 #### Key Assumptions
 - **Property Value**: $1,000,000
 - **Down Payment (Equity)**: $100,000
-- **Loan Amount**: $900,000 (90% LTV)
+- **Loan Amount**: $900,000 (90% LVR)
 - **Interest Rate**: 4%
 - **Property Appreciation**: 7% per annum
 - **Rental Yield**: 4% per annum
@@ -166,7 +166,7 @@ The Average Annual ROI decreases when the length of the investment increases due
 
 ## Bitcoin Investment
 
-Let's assume we invest $100,000 in Bitcoin at today's price of $60,000 per Bitcoin. We'll compare this to a property investment over 10, 20, and 30 years.
+Let's assume we invest $100,000 in Bitcoin at today's price of $60,000 per Bitcoin ankd Bitcoin prive will be one million dollers in 7 to 11 years (now is 2024 and in year 2031 to 2035 will be $1MM). We'll compare this to a property investment over 10, 20, and 30 years.
 
 ### Bitcoin Investment Assumptions
 - **Initial Investment**: $100,000

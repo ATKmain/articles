@@ -9,7 +9,7 @@ This repository is dedicated to my contributions in the form of articles, resear
 ## Content Overview
 
 ### Articles
-- **[Real ROI or Property_Investment in Australia](https://atkmain.github.io/articles/Property_Investment_in_Australia)[md](link_to_article_1.md)**: A brief description or abstract of the article.
+- **[Real ROI or Property_Investment in Australia](https://atkmain.github.io/articles/Investment_in_Australian_Property_vs_BTC)[Markdown](https://atkmain.github.io/articles/Investment_in_Australian_Property_vs_BTC.md)**: A brief description or abstract of the article.
 
 ### Research Papers
 
