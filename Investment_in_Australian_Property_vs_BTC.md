@@ -1,5 +1,9 @@
 # ROI of Investing in Australian Property vs Bitcoin
 
+*By A.T.Khalilian*
+
+The analysis of return on investment (ROI) in Australian property versus Bitcoin is a topic of significant interest among investors, with each option presenting unique opportunities and risks. This article aims to provide a detailed comparison of the ROI from Australian property and Bitcoin by leveraging mathematical calculations and historical data. Australian property investments are traditionally seen as stable and lucrative due to consistent appreciation and rental income. On the other hand, Bitcoin offers the allure of high returns due to its volatility and potential for rapid appreciation. By examining the average annual returns, costs, and potential profits over various investment periods, we will provide a comprehensive analysis to help investors understand the strengths and weaknesses of both investment strategies. Whether you prioritize the stability of real estate or the high-risk, high-reward nature of cryptocurrency, this article will equip you with the necessary insights and calculations to evaluate both investment strategies effectively.
+
 ## Investing in Australian Property
 
 Investing in property has long been considered a solid and lucrative strategy for growing wealth, particularly in markets like Australia. Property investments can deliver high returns on investment (ROI) due to consistent property appreciation, rental income, and the leveraging effect of loans. In this article, we will explore why property investment can yield such high returns, using average numbers to provide a comprehensive overview of potential outcomes over 10, 20, and 30 years. We will base our example on an initial investment of $100,000, leveraging a loan to buy property, and accounting for common costs such as management fees and selling commissions.
@@ -166,9 +170,9 @@ The Average Annual ROI decreases when the length of the investment increases due
 
 ## Bitcoin Investment
 
-Let's assume we invest $100,000 in Bitcoin at today's price of $60,000 per Bitcoin ankd Bitcoin prive will be one million dollers in 7 to 11 years (now is 2024 and in year 2031 to 2035 will be $1MM). We'll compare this to a property investment over 10, 20, and 30 years.
+Investing in Bitcoin, the first and largest cryptocurrency, offers a distinct contrast to traditional property investment, characterized by its high volatility and potential for substantial returns. Various models and expert predictions suggest that Bitcoin could reach a value of $1 million within different time frames. Based on variations of the stock-to-flow model, we assume it will hit $1 million in the next 7 to 11 years (2031 to 2035). This section will compare the potential ROI of Bitcoin with that of property investments over 10, 20, and 30-year periods, analyzing the risks, returns, and unique factors influencing Bitcoin's market performance. To illustrate this, we will consider an initial investment of $100,000 in Bitcoin at the current price of $60,000 per Bitcoin.
 
-### Bitcoin Investment Assumptions
+#### Bitcoin Investment Assumptions
 - **Initial Investment**: $100,000
 - **Current Bitcoin Price**: $60,000
 - **Future Bitcoin Value**: $1,000,000 in 7 to 11 years
