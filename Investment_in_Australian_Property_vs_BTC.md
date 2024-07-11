@@ -319,3 +319,66 @@ Investing in property in Australia can yield substantial long-term returns with 
 
 In summary, your choice between property and Bitcoin investments should align with your risk tolerance, investment horizon, and financial goals.
 
+## Appendix 
+
+### BTC predictions
+Here are the top 10 Bitcoin price predictions based on models similar to the Stock-to-Flow (S2F) model:
+
+1. **Plan B (Stock-to-Flow Model)**: Predicts Bitcoin could reach close to $1 million around 2025-2026, following the next halving in 2024. The S2F model correlates Bitcoin’s price with its scarcity, which is impacted by halving events [[❞]](https://coincodex.com/article/28201/will-bitcoin-reach-1-million/).
+
+2. **Cathie Wood (ARK Invest)**: ARK Invest's analysis suggests Bitcoin could reach $1.5 million by 2030, factoring in institutional adoption and Bitcoin’s increasing use as a store of value [[❞]](https://www.coindesk.com/markets/2024/01/11/cathie-wood-sees-bitcoin-price-reaching-15m-by-2030-after-etf-approval/).
+
+3. **Anthony Pompliano (Pomp Investments)**: Utilizes a combination of Stock-to-Flow and macroeconomic factors to predict Bitcoin reaching $1 million by the end of this decade, considering inflation and fiat currency devaluation [[❞]](https://coincodex.com/article/28201/will-bitcoin-reach-1-million/).
+
+4. **Raoul Pal (Real Vision)**: Forecasts Bitcoin could reach $1 million by 2026-2027 using a blend of the Stock-to-Flow model and Metcalfe’s Law, which relates the value of a network to the number of its users [[❞]](https://beincrypto.com/million-bitcoin-price-prediction-explained/).
+
+5. **Samson Mow (JAN3)**: Based on Bitcoin’s halving cycles and the potential approval of a spot Bitcoin ETF, Mow predicts Bitcoin could hit $1 million in the years following the 2024 halving event [[❞]](https://www.youtube.com/watch?v=HUJAw1UTHeo#:~:text=URL%3A%20https%3A%2F%2Fwww,100) [[❞]](https://beincrypto.com/million-bitcoin-price-prediction-explained/).
+
+6. **Adam Back (Blockstream)**: Projects Bitcoin could reach $1 million by 2032, combining elements of the Stock-to-Flow model with anticipated technological and adoption milestones [[❞]](https://coincodex.com/article/28201/will-bitcoin-reach-1-million/).
+
+7. **Willy Woo (On-chain Analyst)**: Uses on-chain metrics along with the Stock-to-Flow model to estimate Bitcoin reaching $1 million by 2025-2026, driven by growing adoption and scarcity [[❞]](https://beincrypto.com/million-bitcoin-price-prediction-explained/).
+
+8. **Dan Morehead (Pantera Capital)**: Predicts Bitcoin will reach $1 million by 2028, using a model similar to Stock-to-Flow and factoring in macroeconomic trends and halving cycles [[❞]](https://beincrypto.com/million-bitcoin-price-prediction-explained/).
+
+9. **Tyler Winklevoss (Gemini)**: Anticipates Bitcoin reaching $1 million by 2030, supported by the Stock-to-Flow model and the increasing adoption of Bitcoin as digital gold [[❞]](https://coincodex.com/article/28201/will-bitcoin-reach-1-million/).
+
+10. **Robert Kiyosaki (Rich Dad, Poor Dad)**: Predicts Bitcoin will reach $1 million by 2030, basing his forecast on the Stock-to-Flow model and the broader economic landscape that he believes will drive people towards Bitcoin as a safe haven [[❞]](https://beincrypto.com/million-bitcoin-price-prediction-explained/).
+
+These predictions incorporate various methodologies but are rooted in the principles of the Stock-to-Flow model, emphasizing Bitcoin's scarcity and the impact of its halving events.
+
+
+## Critics 
+
+This paper on the ROI of investing in Australian property versus Bitcoin contains a mixture of well-articulated points and some potential mistakes or miscalculations. Here are several areas that may need review or clarification:
+
+### Australian Property Investment Section
+
+1. **Amortization Details**: The paper provides figures for the remaining loan balance after 10, 20, and 30 years, but it's unclear if these figures account for interest-only payments or principal plus interest payments. This affects the accuracy of the calculated net cash flow and total interest paid.
+
+2. **Inconsistency in Net Rental Income Calculations**: The total net rental income calculations seem incorrect. For example, in the 10-year scenario, the net annual rental income is given as $36,000, but the total net rental income over 10 years should logically be $360,000 (10 x $36,000). However, it then states that the net cash flow is $45,783, which subtracts only the total interest paid without considering total mortgage payments.
+
+3. **Property Appreciation Rate Assumption**: The paper uses a consistent 7% annual appreciation rate for the property, which is quite optimistic and may not account for market fluctuations or economic downturns.
+
+4. **Selling Commission and Other Costs**: The impact of selling commissions on the total profit is mentioned, but it doesn't clearly subtract other potential selling costs like capital gains tax, legal fees, or other transaction fees, which can significantly affect the net returns.
+
+5. **Impact of Loan Type**: The analysis does not specify the type of loan (fixed or variable rate), which could significantly influence the financial outcomes, especially in a fluctuating interest rate environment.
+
+### Bitcoin Investment Section
+
+1. **Bitcoin Price Prediction**: The prediction that the price of Bitcoin will reach $1 million in 7 to 11 years is highly speculative and not based on any cited financial analysis or historical data trend, which risks misleading readers about the potential of such investments.
+
+2. **Volatility and Risk**: While the paper acknowledges the volatility and risk associated with Bitcoin, it does not delve into the potential impact of regulatory changes, technological developments, or broader economic factors that could drastically affect Bitcoin’s value.
+
+3. **Comparison Methodology**: The comparison between property and Bitcoin uses different metrics and assumptions, which might not provide an equitable basis for comparison. For instance, the property investment analysis involves detailed cash flow calculations, whereas the Bitcoin scenario assumes a simple buy-and-hold strategy without accounting for potential taxes or fees on gains.
+
+4. **Lack of Diversification**: Both investment scenarios focus solely on a single asset, which doesn't consider the benefits of diversification. Especially with high-risk assets like Bitcoin, diversification can play a critical role in managing investment risk.
+
+### General Observations
+
+1. **Economic Assumptions**: The paper assumes a relatively stable economic environment, which is unrealistic, especially over longer periods. Economic downturns, interest rate changes, and market corrections can significantly affect both property values and Bitcoin prices.
+
+2. **Realistic Scenarios**: The scenarios may benefit from a range of outcomes (pessimistic, realistic, and optimistic scenarios) to give readers a better understanding of potential risks and returns.
+
+3. **Mathematical Errors**: There are apparent inconsistencies in mathematical calculations (e.g., net cash flow calculations) that need to be addressed to ensure accuracy.
+
+These points highlight the need for a more thorough analysis and realistic scenario planning in evaluating the ROI of different investment types.
